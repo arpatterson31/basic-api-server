@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arpatterson31/basic-api-server.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "audrey patterson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arpatterson31/basic-api-server/issues"
