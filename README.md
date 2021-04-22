@@ -38,3 +38,5 @@ i.e.
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML / Application Wiring Diagram
+
+![Lab 03 UML](assets/lab03uml.jpg)
